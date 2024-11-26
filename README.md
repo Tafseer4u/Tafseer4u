@@ -1,3 +1,4 @@
+![logo](https://github.com/Tafseer4u/Tafseer4u/blob/main/Banner.gif)
 <h1 align="center">Hi 👋, I'm Tafseer Ali </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
