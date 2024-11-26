@@ -21,3 +21,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tafseer4u&show_icons=true&locale=en&layout=compact" alt="tafseer4u" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tafseer4u&show_icons=true&locale=en" alt="tafseer4u" /></p>
+
+
+<img align="center" src="https://github.com/Tafseer4u/Tafseer4u/blob/main/snake.svg">
