@@ -4,6 +4,8 @@
 
 <img align="right"  width="400" src="https://camo.githubusercontent.com/ea668c96cf3d8bbdea42849d643541a8864f6570984780fcc16807325ddc778e/68747470733a2f2f7777772e67696663656e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30382f6d6172696f2d6769662d342e676966">
 
+![](https://komarev.com/ghpvc/?username=Tafseer4u)
+
 - 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **tafseerali.btech@gmail.com**
